@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-01T02:38:12.237Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="SVQAHKyY8GtLtyF7WgDz" version="12.1.9" type="github" pages="20">
+<mxfile modified="2019-11-01T02:43:35.543Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="qCm-24HVQUiF87C-A_gd" version="12.1.9" type="github" pages="20">
   <diagram id="lmoKGFHdX57OhqNv0h0R" name="人员画像">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2856,10 +2856,10 @@
         <mxCell id="52W6GaUDeWjQoUEffDCt-24" value="让IT建设有序" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="52W6GaUDeWjQoUEffDCt-1" vertex="1">
           <mxGeometry x="7.5" y="612" width="138" height="79" as="geometry"/>
         </mxCell>
-        <mxCell id="52W6GaUDeWjQoUEffDCt-25" value="让产品建设方便，快捷" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="52W6GaUDeWjQoUEffDCt-1" vertex="1">
+        <mxCell id="52W6GaUDeWjQoUEffDCt-25" value="让产品建设方便，快捷、灵活" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="52W6GaUDeWjQoUEffDCt-1" vertex="1">
           <mxGeometry x="416.5" y="482" width="137" height="90" as="geometry"/>
         </mxCell>
-        <mxCell id="52W6GaUDeWjQoUEffDCt-26" value="让系统运行安全、稳定" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="52W6GaUDeWjQoUEffDCt-1" vertex="1">
+        <mxCell id="52W6GaUDeWjQoUEffDCt-26" value="让系统运行安全、稳定、节能" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="52W6GaUDeWjQoUEffDCt-1" vertex="1">
           <mxGeometry x="459" y="857" width="134" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="52W6GaUDeWjQoUEffDCt-27" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3333FF;" parent="52W6GaUDeWjQoUEffDCt-1" source="52W6GaUDeWjQoUEffDCt-28" target="52W6GaUDeWjQoUEffDCt-29" edge="1">
@@ -3222,7 +3222,7 @@
           <mxGeometry x="346" y="245" width="167" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="52W6GaUDeWjQoUEffDCt-166" value="IT综合服务" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="52W6GaUDeWjQoUEffDCt-1" vertex="1">
-          <mxGeometry x="706" y="245" width="115" height="60" as="geometry"/>
+          <mxGeometry x="690" y="245" width="131" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="52W6GaUDeWjQoUEffDCt-167" value="技术" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="52W6GaUDeWjQoUEffDCt-1" vertex="1">
           <mxGeometry x="184" y="244" width="137" height="60" as="geometry"/>
@@ -3332,10 +3332,10 @@
           <mxGeometry x="609" y="315.5" width="37" height="100" as="geometry"/>
         </mxCell>
         <mxCell id="52W6GaUDeWjQoUEffDCt-193" value="P&lt;br&gt;M&lt;br&gt;O" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFF2CC;fontSize=20;align=center;" parent="52W6GaUDeWjQoUEffDCt-1" vertex="1">
-          <mxGeometry x="723" y="315.5" width="37" height="100" as="geometry"/>
+          <mxGeometry x="707.5" y="315.5" width="37" height="100" as="geometry"/>
         </mxCell>
         <mxCell id="52W6GaUDeWjQoUEffDCt-194" value="IT资产" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFF2CC;fontSize=20;align=center;" parent="52W6GaUDeWjQoUEffDCt-1" vertex="1">
-          <mxGeometry x="777.5" y="315.5" width="37" height="100" as="geometry"/>
+          <mxGeometry x="762" y="315.5" width="37" height="100" as="geometry"/>
         </mxCell>
         <mxCell id="t_yfLVKvZtq5vazue1tN-0" value="&lt;font color=&quot;#333300&quot;&gt;主数据管理员&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 0px ; white-space: nowrap&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20color%3D%26quot%3B%23333300%26quot%3B%26gt%3B%E7%89%A9%E8%81%94%E5%B7%A5%E7%A8%8B%E5%B8%88%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22411%22%20y%3D%221594%22%20width%3D%2270%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="52W6GaUDeWjQoUEffDCt-1" vertex="1">
           <mxGeometry x="424.5" y="1536.5" width="70" height="30" as="geometry"/>
