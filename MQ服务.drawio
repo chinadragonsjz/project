@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-05T07:39:52.299Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="fLB0BsV2pBj5-O_jcgEA" version="12.1.9" type="github" pages="21">
+<mxfile modified="2019-11-05T07:40:35.476Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="SMSb94KFmTQCtDTlrCUS" version="12.1.9" type="github" pages="21">
   <diagram id="lmoKGFHdX57OhqNv0h0R" name="人员画像">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3730,7 +3730,7 @@
           <mxGeometry x="67" y="1885" width="70" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="acCUNR6YRDbTM6qd4XU0-130" value="召集人" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="acCUNR6YRDbTM6qd4XU0-1">
-          <mxGeometry x="514.5" y="70" width="200" height="60" as="geometry"/>
+          <mxGeometry x="494.5" y="95" width="200" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="acCUNR6YRDbTM6qd4XU0-131" value="IT规划" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="acCUNR6YRDbTM6qd4XU0-1">
           <mxGeometry x="3" y="247" width="162" height="60" as="geometry"/>
