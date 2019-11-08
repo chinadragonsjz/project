@@ -1,6 +1,6 @@
-<mxfile modified="2019-11-05T08:38:06.243Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="P8B1lNwGjhkaH0Bptqn7" version="12.1.9" type="github" pages="22">
+<mxfile modified="2019-11-08T07:29:13.718Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="6H7bn8QChwDLag3dhP8o" version="12.1.9" type="github" pages="22">
   <diagram id="lmoKGFHdX57OhqNv0h0R" name="人员画像">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1320" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -86,7 +86,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tReHUjL97ZAN-hQmVex5" name="消息服务">
-    <mxGraphModel dx="1019" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1320" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="D0I0K8ut0AMGtw29AANR-0"/>
         <mxCell id="D0I0K8ut0AMGtw29AANR-1" parent="D0I0K8ut0AMGtw29AANR-0"/>
@@ -307,7 +307,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="owxd0el33JVyE2aGCe3D" name="股份业务中台架构图">
-    <mxGraphModel dx="1846" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2147" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="113CpVPtrxgq6a8rUhYD-0"/>
         <mxCell id="113CpVPtrxgq6a8rUhYD-1" parent="113CpVPtrxgq6a8rUhYD-0"/>
@@ -543,7 +543,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GcMUz16pBto1hjqCW5CH" name="股份研发赋能全景">
-    <mxGraphModel dx="1846" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2147" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="8_WjIh0rPd6zdv9pWisA-0"/>
         <mxCell id="8_WjIh0rPd6zdv9pWisA-1" parent="8_WjIh0rPd6zdv9pWisA-0"/>
@@ -602,7 +602,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZLWACH421YN8dtFEEPII" name="股份应用集成架构">
-    <mxGraphModel dx="1846" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2147" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="TcG46B2VcW4PzT0b0qH1-0"/>
         <mxCell id="TcG46B2VcW4PzT0b0qH1-1" parent="TcG46B2VcW4PzT0b0qH1-0"/>
@@ -807,7 +807,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xMZdWEeW7ngc_Zwpp65N" name="轻量级开发驱动解决方案架构">
-    <mxGraphModel dx="1019" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1320" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="J8HC9A5FWLNqeIFOtMJB-0"/>
         <mxCell id="J8HC9A5FWLNqeIFOtMJB-1" parent="J8HC9A5FWLNqeIFOtMJB-0"/>
@@ -952,7 +952,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dc6BqtYapghf7Z9oOyfI" name="智慧安全架构">
-    <mxGraphModel dx="1019" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1320" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Jzn0iNe8KRYDoLsy9Qu_-0"/>
         <mxCell id="Jzn0iNe8KRYDoLsy9Qu_-1" parent="Jzn0iNe8KRYDoLsy9Qu_-0"/>
@@ -1110,7 +1110,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HT6qSIFHm8Hz2ffhWevG" name="流程驱动开发">
-    <mxGraphModel dx="1019" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1320" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="01BZWnGzJBcXuwyWggxo-0"/>
         <mxCell id="01BZWnGzJBcXuwyWggxo-1" parent="01BZWnGzJBcXuwyWggxo-0"/>
@@ -1227,7 +1227,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2_G_2fJLveEWedbdd6rv" name="PC个人工作台">
-    <mxGraphModel dx="1019" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1320" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="wcgdO8NvvJz771cxfDxt-0"/>
         <mxCell id="wcgdO8NvvJz771cxfDxt-1" parent="wcgdO8NvvJz771cxfDxt-0"/>
@@ -3294,7 +3294,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iokvr-PobS-vvezdb5Op" name="第 20 页">
-    <mxGraphModel dx="1907" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2147" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="acCUNR6YRDbTM6qd4XU0-0"/>
         <mxCell id="acCUNR6YRDbTM6qd4XU0-1" parent="acCUNR6YRDbTM6qd4XU0-0"/>
@@ -3730,7 +3730,7 @@
           <mxGeometry x="67" y="1885" width="70" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="acCUNR6YRDbTM6qd4XU0-130" value="召集人" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="acCUNR6YRDbTM6qd4XU0-1">
-          <mxGeometry x="494" y="80" width="200" height="60" as="geometry"/>
+          <mxGeometry x="494" y="95.5" width="200" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="acCUNR6YRDbTM6qd4XU0-131" value="IT规划" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="acCUNR6YRDbTM6qd4XU0-1">
           <mxGeometry x="3" y="247" width="162" height="60" as="geometry"/>
@@ -3773,7 +3773,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="acCUNR6YRDbTM6qd4XU0-139" value="1人" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="acCUNR6YRDbTM6qd4XU0-1">
-          <mxGeometry x="650.5" y="83" width="40" height="20" as="geometry"/>
+          <mxGeometry x="650.5" y="98.5" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="acCUNR6YRDbTM6qd4XU0-140" value="4人" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="acCUNR6YRDbTM6qd4XU0-1">
           <mxGeometry x="1119" y="253" width="40" height="20" as="geometry"/>
@@ -4037,10 +4037,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oNYzijbgXB3UfdEKDTKX-0" value="赋能+产品打造" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="acCUNR6YRDbTM6qd4XU0-1">
-          <mxGeometry x="699.5" y="54.5" width="162" height="90" as="geometry"/>
+          <mxGeometry x="699.5" y="70" width="162" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="G5YU4OCgK-OCzY5589Nt-0" value="总编制：64" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#eeeeee;fontSize=15;align=left;strokeColor=#36393d;" vertex="1" parent="acCUNR6YRDbTM6qd4XU0-1">
-          <mxGeometry x="739.5" y="117" width="98" height="35" as="geometry"/>
+          <mxGeometry x="739.5" y="132.5" width="98" height="35" as="geometry"/>
         </mxCell>
         <mxCell id="K35xN_z1nuN4NL0tf-1G-0" value="总部：3&lt;br&gt;工程：1&lt;br&gt;化工：4&lt;br&gt;矿业：0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=south;" vertex="1" parent="acCUNR6YRDbTM6qd4XU0-1">
           <mxGeometry x="519.5" y="457" width="48" height="61" as="geometry"/>
@@ -4065,7 +4065,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3CBlkI2DkWfkjxOE5a67" name="第 21 页">
-    <mxGraphModel dx="1080" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1320" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="jZd_LFiD2myGVvZga5SW-0"/>
         <mxCell id="jZd_LFiD2myGVvZga5SW-1" parent="jZd_LFiD2myGVvZga5SW-0"/>
@@ -4497,12 +4497,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qmGb3jcCzh0FLQeV2SCn" name="第 23 页">
-    <mxGraphModel dx="1080" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1320" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0Fikey550WI3H9H4n3Z0-0"/>
         <mxCell id="0Fikey550WI3H9H4n3Z0-1" parent="0Fikey550WI3H9H4n3Z0-0"/>
         <mxCell id="0Fikey550WI3H9H4n3Z0-2" value="召集人" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="0Fikey550WI3H9H4n3Z0-1">
-          <mxGeometry x="499" y="91" width="200" height="60" as="geometry"/>
+          <mxGeometry x="499" y="98" width="200" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="0Fikey550WI3H9H4n3Z0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fontSize=15;fontColor=#FFFFFF;" edge="1" parent="0Fikey550WI3H9H4n3Z0-1" source="0Fikey550WI3H9H4n3Z0-4" target="0Fikey550WI3H9H4n3Z0-54">
           <mxGeometry relative="1" as="geometry"/>
@@ -4539,7 +4539,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0Fikey550WI3H9H4n3Z0-9" value="1人" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0Fikey550WI3H9H4n3Z0-1">
-          <mxGeometry x="655" y="95" width="40" height="20" as="geometry"/>
+          <mxGeometry x="655" y="102" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="0Fikey550WI3H9H4n3Z0-10" value="4人" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0Fikey550WI3H9H4n3Z0-1">
           <mxGeometry x="846.5" y="252" width="40" height="20" as="geometry"/>
@@ -4699,10 +4699,10 @@
           <mxGeometry x="961.5" y="419" width="39" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="0Fikey550WI3H9H4n3Z0-58" value="赋能为主，产品自主孵化" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="0Fikey550WI3H9H4n3Z0-1">
-          <mxGeometry x="698.5" y="70" width="162" height="90" as="geometry"/>
+          <mxGeometry x="698.5" y="77" width="162" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="0Fikey550WI3H9H4n3Z0-59" value="总编制：36" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#eeeeee;fontSize=15;align=left;strokeColor=#36393d;" vertex="1" parent="0Fikey550WI3H9H4n3Z0-1">
-          <mxGeometry x="739.5" y="136" width="93" height="30" as="geometry"/>
+          <mxGeometry x="739.5" y="143" width="93" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="0Fikey550WI3H9H4n3Z0-60" value="1.数据分析兼BI&amp;nbsp; 4&lt;br&gt;2.数据运营&amp;nbsp; 1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=south;" vertex="1" parent="0Fikey550WI3H9H4n3Z0-1">
           <mxGeometry x="533" y="450" width="107" height="50" as="geometry"/>
@@ -4888,7 +4888,7 @@
           <mxGeometry x="841" y="587" width="219" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="0Fikey550WI3H9H4n3Z0-119" value="四条产品线&lt;br&gt;（4*4+1=17）&lt;br&gt;产品线人员标配&lt;br&gt;1.产品经理&amp;nbsp; 1&lt;br&gt;2.研发团队简配&amp;nbsp; 3&amp;nbsp;&lt;br&gt;3.UI共享&amp;nbsp; 1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=south;" vertex="1" parent="0Fikey550WI3H9H4n3Z0-1">
-          <mxGeometry x="969.5" y="450" width="107" height="80" as="geometry"/>
+          <mxGeometry x="969.5" y="442" width="107" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="0Fikey550WI3H9H4n3Z0-120" value="17人" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0Fikey550WI3H9H4n3Z0-1">
           <mxGeometry x="1044.5" y="255" width="40" height="20" as="geometry"/>
