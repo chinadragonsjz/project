@@ -1,4 +1,4 @@
-<mxfile modified="2019-12-04T05:37:23.442Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="1D0jw7zagBkS99kj-a8E" version="12.2.9" type="github" pages="24">
+<mxfile modified="2019-12-04T23:30:26.457Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="vcEFK7x0cJBFdnrDIH0F" version="12.2.9" type="github" pages="24">
   <diagram id="lmoKGFHdX57OhqNv0h0R" name="人员画像">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5045,7 +5045,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="V8SPoF4FHO8Ahzwa3LCz" name="第 25 页">
+  <diagram id="V8SPoF4FHO8Ahzwa3LCz" name="高可用设计思路">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="qek5eqPrbUUueTq9Isv9-0"/>
@@ -5217,7 +5217,7 @@
             <mxPoint x="412" y="490" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qek5eqPrbUUueTq9Isv9-37" value="*.yunyigc.com:&amp;nbsp;&lt;span style=&quot;color: rgb(39 , 56 , 73) ; font-family: &amp;#34;roboto&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;noto sans cjk&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;microsoft yahei&amp;#34; ; white-space: normal ; background-color: rgb(242 , 245 , 248)&quot;&gt;123.58.243.X&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(39 , 56 , 73) ; font-family: &amp;#34;roboto&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;noto sans cjk&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;microsoft yahei&amp;#34; ; white-space: normal ; background-color: rgb(242 , 245 , 248)&quot;&gt;10.39.39.X&lt;/span&gt;&lt;span style=&quot;color: rgb(39 , 56 , 73) ; font-family: &amp;#34;roboto&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;noto sans cjk&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;microsoft yahei&amp;#34; ; white-space: normal ; background-color: rgb(242 , 245 , 248)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="qek5eqPrbUUueTq9Isv9-1">
+        <mxCell id="qek5eqPrbUUueTq9Isv9-37" value="*.yunyigc.com:&amp;nbsp;&lt;br&gt;&lt;span style=&quot;color: rgb(39 , 56 , 73) ; font-family: &amp;#34;roboto&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;noto sans cjk&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;microsoft yahei&amp;#34; ; white-space: normal ; background-color: rgb(242 , 245 , 248)&quot;&gt;123.58.243.X&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(39 , 56 , 73) ; font-family: &amp;#34;roboto&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;noto sans cjk&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;microsoft yahei&amp;#34; ; white-space: normal ; background-color: rgb(242 , 245 , 248)&quot;&gt;10.39.39.X&lt;/span&gt;&lt;span style=&quot;color: rgb(39 , 56 , 73) ; font-family: &amp;#34;roboto&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;noto sans cjk&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;microsoft yahei&amp;#34; ; white-space: normal ; background-color: rgb(242 , 245 , 248)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="qek5eqPrbUUueTq9Isv9-1">
           <mxGeometry x="592.5" y="430" width="55" height="100" as="geometry"/>
         </mxCell>
         <mxCell id="qek5eqPrbUUueTq9Isv9-38" value="&lt;span style=&quot;color: rgb(39 , 56 , 73) ; font-family: &amp;#34;roboto&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;noto sans cjk&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;microsoft yahei&amp;#34; ; text-align: left ; background-color: rgb(242 , 245 , 248)&quot;&gt;123.58.243.X&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qek5eqPrbUUueTq9Isv9-1">
@@ -5300,6 +5300,15 @@
         </mxCell>
         <mxCell id="qek5eqPrbUUueTq9Isv9-78" value="read" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qek5eqPrbUUueTq9Isv9-1">
           <mxGeometry x="405.5" y="1040" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="bAXivmfXlhD0vhQfXPV3-0" value="&lt;span style=&quot;color: rgb(39 , 56 , 73) ; font-family: &amp;#34;roboto&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;noto sans cjk&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;microsoft yahei&amp;#34; ; text-align: left ; background-color: rgb(242 , 245 , 248)&quot;&gt;192.168.0.1&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qek5eqPrbUUueTq9Isv9-1">
+          <mxGeometry x="253" y="660" width="87" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="bAXivmfXlhD0vhQfXPV3-1" value="&lt;span style=&quot;color: rgb(39 , 56 , 73) ; font-family: &amp;#34;roboto&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;noto sans cjk&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;microsoft yahei&amp;#34; ; text-align: left ; background-color: rgb(242 , 245 , 248)&quot;&gt;192.168.0.2&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qek5eqPrbUUueTq9Isv9-1">
+          <mxGeometry x="455.5" y="670" width="87" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="bAXivmfXlhD0vhQfXPV3-3" value="&lt;span style=&quot;color: rgb(39 , 56 , 73) ; font-family: &amp;#34;roboto&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;noto sans cjk&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;microsoft yahei&amp;#34; ; text-align: left ; background-color: rgb(242 , 245 , 248)&quot;&gt;192.168.0.X&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qek5eqPrbUUueTq9Isv9-1">
+          <mxGeometry x="622.5" y="670" width="87" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
