@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-03T03:25:35.538Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="3luW2taJ7S1HJoiu0Mt_" version="12.7.9" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2020-03-03T03:27:04.041Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="lJbswRJYmJEaodOR-2Sq" version="12.7.9" type="github" pages="3">
   <diagram id="aovmOdOLRYO-H6AUeAWv" name="第 1 页">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -166,8 +166,8 @@
         <mxCell id="IBBTN6dMV4PXEjPxAF1v-26" value="异常温度" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=16;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="IBBTN6dMV4PXEjPxAF1v-1" vertex="1">
           <mxGeometry x="286" y="-590" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IBBTN6dMV4PXEjPxAF1v-27" value="非规律震动" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=16;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="IBBTN6dMV4PXEjPxAF1v-1" vertex="1">
-          <mxGeometry x="398" y="-590" width="90" height="40" as="geometry" />
+        <mxCell id="IBBTN6dMV4PXEjPxAF1v-27" value="非规律震动波形" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=16;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="IBBTN6dMV4PXEjPxAF1v-1" vertex="1">
+          <mxGeometry x="398" y="-590" width="122" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IBBTN6dMV4PXEjPxAF1v-30" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=20;" parent="IBBTN6dMV4PXEjPxAF1v-1" vertex="1">
           <mxGeometry x="156" y="-950" width="656" height="180" as="geometry" />
@@ -320,6 +320,9 @@
         </mxCell>
         <mxCell id="zWHGUlIVLa83p9jTj2lA-31" value="分类分级" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=16;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="IBBTN6dMV4PXEjPxAF1v-1">
           <mxGeometry x="703" y="-880" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OVYQpc9Z2Y8RPNvH3rKL-0" value="位置信息" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=16;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="IBBTN6dMV4PXEjPxAF1v-1">
+          <mxGeometry x="540" y="-590" width="122" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
