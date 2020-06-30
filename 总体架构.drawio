@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-30T01:06:45.869Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="m4SKmwxp9i4Cpt2YyL9F" version="13.0.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-06-30T01:08:00.936Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="hpEeW6O0PiVeA8o4ykgM" version="13.0.3" type="github" pages="4">
   <diagram id="aovmOdOLRYO-H6AUeAWv" name="第 1 页">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -357,7 +357,7 @@
           <mxGeometry x="315" y="270" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="7LHjjZC_UFPc1KfZzc-d-4" value="大屏展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7LHjjZC_UFPc1KfZzc-d-1">
-          <mxGeometry x="350" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="215" y="130" width="390" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7LHjjZC_UFPc1KfZzc-d-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7LHjjZC_UFPc1KfZzc-d-1" source="7LHjjZC_UFPc1KfZzc-d-6" target="7LHjjZC_UFPc1KfZzc-d-11">
           <mxGeometry relative="1" as="geometry" />
@@ -413,16 +413,24 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7LHjjZC_UFPc1KfZzc-d-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="7LHjjZC_UFPc1KfZzc-d-1" source="7LHjjZC_UFPc1KfZzc-d-29" target="7LHjjZC_UFPc1KfZzc-d-4">
+        <mxCell id="7LHjjZC_UFPc1KfZzc-d-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7LHjjZC_UFPc1KfZzc-d-1" source="7LHjjZC_UFPc1KfZzc-d-29">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="145" y="190" as="targetPoint" />
+            <mxPoint x="219" y="160" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="145" y="200" />
+              <mxPoint x="145" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7LHjjZC_UFPc1KfZzc-d-29" value="&lt;font style=&quot;font-size: 18px&quot;&gt;随手拍业务服务&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7LHjjZC_UFPc1KfZzc-d-1">
+        <mxCell id="7LHjjZC_UFPc1KfZzc-d-29" value="&lt;font style=&quot;font-size: 18px&quot;&gt;随手拍应用服务&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7LHjjZC_UFPc1KfZzc-d-1">
           <mxGeometry x="50" y="270" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7LHjjZC_UFPc1KfZzc-d-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="7LHjjZC_UFPc1KfZzc-d-1" source="7LHjjZC_UFPc1KfZzc-d-33" target="7LHjjZC_UFPc1KfZzc-d-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="705" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7LHjjZC_UFPc1KfZzc-d-33" value="&lt;font style=&quot;font-size: 18px&quot;&gt;SAP应用服务&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7LHjjZC_UFPc1KfZzc-d-1">
+          <mxGeometry x="590" y="270" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
