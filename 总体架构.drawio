@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-30T00:45:57.679Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="M1jR4514kCMmY9RFmCZ9" version="13.0.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-06-30T00:52:48.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="mbvYzbHHYjv5dGjUcQPj" version="13.0.3" type="github" pages="4">
   <diagram id="aovmOdOLRYO-H6AUeAWv" name="第 1 页">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -350,6 +350,47 @@
       <root>
         <mxCell id="7LHjjZC_UFPc1KfZzc-d-0" />
         <mxCell id="7LHjjZC_UFPc1KfZzc-d-1" parent="7LHjjZC_UFPc1KfZzc-d-0" />
+        <mxCell id="7LHjjZC_UFPc1KfZzc-d-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7LHjjZC_UFPc1KfZzc-d-1" source="7LHjjZC_UFPc1KfZzc-d-3" target="7LHjjZC_UFPc1KfZzc-d-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7LHjjZC_UFPc1KfZzc-d-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;视频接入平台&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7LHjjZC_UFPc1KfZzc-d-1">
+          <mxGeometry x="350" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7LHjjZC_UFPc1KfZzc-d-4" value="大屏展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7LHjjZC_UFPc1KfZzc-d-1">
+          <mxGeometry x="350" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7LHjjZC_UFPc1KfZzc-d-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7LHjjZC_UFPc1KfZzc-d-1" source="7LHjjZC_UFPc1KfZzc-d-6" target="7LHjjZC_UFPc1KfZzc-d-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7LHjjZC_UFPc1KfZzc-d-6" value="海康摄像头" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7LHjjZC_UFPc1KfZzc-d-1">
+          <mxGeometry x="210" y="500" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7LHjjZC_UFPc1KfZzc-d-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="7LHjjZC_UFPc1KfZzc-d-1" source="7LHjjZC_UFPc1KfZzc-d-17" target="7LHjjZC_UFPc1KfZzc-d-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="85" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="85" y="480" />
+              <mxPoint x="228" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7LHjjZC_UFPc1KfZzc-d-17" value="海康摄像头" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7LHjjZC_UFPc1KfZzc-d-1">
+          <mxGeometry x="40" y="500" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7LHjjZC_UFPc1KfZzc-d-7" value="新聚安全帽" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7LHjjZC_UFPc1KfZzc-d-1">
+          <mxGeometry x="600" y="500" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7LHjjZC_UFPc1KfZzc-d-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="7LHjjZC_UFPc1KfZzc-d-1" source="7LHjjZC_UFPc1KfZzc-d-11" target="7LHjjZC_UFPc1KfZzc-d-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7LHjjZC_UFPc1KfZzc-d-11" value="NVR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7LHjjZC_UFPc1KfZzc-d-1">
+          <mxGeometry x="200" y="420" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7LHjjZC_UFPc1KfZzc-d-16" value="交换机" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.switch;" vertex="1" parent="7LHjjZC_UFPc1KfZzc-d-1">
+          <mxGeometry x="370" y="425" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
